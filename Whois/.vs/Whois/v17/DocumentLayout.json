@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pokam\\Documents\\GitHub\\whois\\Whois\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD610488-E042-4D56-B436-2877717F0FC4}|Whois.csproj|c:\\users\\pokam\\documents\\github\\whois\\whois\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD610488-E042-4D56-B436-2877717F0FC4}|Whois.csproj|solutionrelative:plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD610488-E042-4D56-B436-2877717F0FC4}|Whois.csproj|c:\\users\\pokam\\documents\\github\\whois\\whois\\command\\whois.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD610488-E042-4D56-B436-2877717F0FC4}|Whois.csproj|solutionrelative:command\\whois.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 351,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Whois.cs",
+              "DocumentMoniker": "C:\\Users\\pokam\\Documents\\GitHub\\whois\\Whois\\Command\\Whois.cs",
+              "RelativeDocumentMoniker": "Command\\Whois.cs",
+              "ToolTip": "C:\\Users\\pokam\\Documents\\GitHub\\whois\\Whois\\Command\\Whois.cs",
+              "RelativeToolTip": "Command\\Whois.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:54:39.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Plugin.cs",
+              "DocumentMoniker": "C:\\Users\\pokam\\Documents\\GitHub\\whois\\Whois\\Plugin.cs",
+              "RelativeDocumentMoniker": "Plugin.cs",
+              "ToolTip": "C:\\Users\\pokam\\Documents\\GitHub\\whois\\Whois\\Plugin.cs",
+              "RelativeToolTip": "Plugin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:53:15.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
